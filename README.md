@@ -1,6 +1,6 @@
 # 📄 Urdu-OCR System
 
-A Python-based OCR system for extracting **Urdu text** from PDFs and images using **Tesseract**, with preprocessing optimizations for **Naskh Urdu** scripts.
+A Python-based OCR system for extracting **Urdu text** from PDFs and images using Tesseract, with preprocessing optimizations for Naskh Urdu scripts.
 
 ---
 
