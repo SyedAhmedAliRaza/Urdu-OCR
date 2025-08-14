@@ -23,7 +23,6 @@ A Python-based OCR system for extracting **Urdu text** from PDFs and images usin
 | **Pillow (PIL)** | Image handling |
 | **pdf2image** | Convert PDFs to images |
 | **jiwer** | WER/CER evaluation |
-| **Flask** | Web deployment on **Vercel** |
 | **Google Colab** | Development environment |
 
 ---
