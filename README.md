@@ -64,4 +64,8 @@ A Python-based OCR system for extracting **Urdu text** from PDFs and images usin
 - Add **deskewing** with memory-optimized processing
 - Move to a **more powerful cloud service** (AWS, GCP, Azure)
 
+## 💻 How to Run 
 
+Use the following link on Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/139f37bmckO--ScJUB_W5q0iIsVuscLXQ?usp=sharing)
