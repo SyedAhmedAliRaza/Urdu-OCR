@@ -43,7 +43,7 @@ A Python-based OCR system for extracting **Urdu text** from PDFs and images usin
 
 ## 📊 Accuracy Results & Outputs
 - **Initial Accuracy**:  
-  - **WER**: 24%  
+  - **WER**: ~26%  
   - **CER**: ~11%  
 - **Optimization Target**: WER < 20%  
 - **Sample Output**:  
